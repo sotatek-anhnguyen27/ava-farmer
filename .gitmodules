@@ -1,0 +1,3 @@
+[submodule "libs/buni-stable-coins-sdk"]
+	path = libs/buni-stable-coins-sdk
+	url = git@github.com-sotatek:sotatek-dev/buni-stable-coins-sdk.git

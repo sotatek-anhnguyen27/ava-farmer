@@ -1,0 +1,58 @@
+{
+  "network": "Avalanche",
+  "chainId": 43113,
+  "precision": 8,
+  "defaultPrecision": 2,
+  "rpcUrl": [
+    "https://api.avax-test.network/ext/bc/C/rpc"
+  ],
+  "wsUrl": [
+    "wss://dreamy-aryabhata:tattoo-vacate-civic-flashy-wimp-pencil@ws-nd-058-273-668.p2pify.com",
+    "wss://bsc-ws-node.nariox.org:443"
+  ],
+  "addresses": {
+    "multicall": "0x64e9CBc966792ab61Eb48D9848f6AF4F14AF2608",
+    "masterChef": "0xA12c974fE40ea825E66615bA0Dc4Fd19be4D7d24",
+    "masterChef2": "0x6b28df25331E3F0456398E667Bc7Cc5636003E87",
+    "tokenMasterChef": "0x61e7DAbd44eA984Ca2118789B30517E39cD0c6ae",
+    "weth": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },
+  "reserveCurrencies": [
+    "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "0x55d398326f99059fF775485246999027B3197955"
+  ],
+  "kalancer": {
+    "subgraphBackupUrl": "https://api.thegraph.com/subgraphs/name/bunicorndefi/buni-token",
+    "subgraphUrl": "https://api.thegraph.com/subgraphs/name/bunicorndefi/buni-token",
+    "pair": {
+      "inputAsset": "bnb",
+      "outputAsset": "0x0E7BeEc376099429b85639Eb3abE7cF22694ed49"
+    }
+  },
+  "kurve": {
+    "subgraphUrl": "https://api.thegraph.com/subgraphs/name/bunicorndefi/buni-stablecoins",
+    "blockSubGraphUrl": "https://api.thegraph.com/subgraphs/name/bunicorndefi/bsc-blocks",
+    "pair": {
+      "inputAsset": "0x55d398326f99059fF775485246999027B3197955",
+      "outputAsset": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+    }
+  },
+  "connectors": {
+    "metamask":  {
+      "id": "metamask",
+      "name": "Metamask",
+      "options": {
+        "chainId": 43113,
+        "chainName": "Avalanche",
+        "rpcUrls": [
+          " https://api.avax-test.network/ext/bc/C/rpc"
+        ],
+        "blockExplorerUrls": [
+          "https://subnets-test.avax.network/"
+        ]
+      }
+    }
+  }
+}

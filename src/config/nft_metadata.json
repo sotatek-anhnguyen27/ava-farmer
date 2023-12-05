@@ -1,0 +1,86 @@
+{
+  "krypto_monster_nft": [
+    {
+      "id": 1,
+      "imgUrl": "https://static.nft.bunicorn.exchange/farms/logo-450x600.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/farms/logo-180x240.png",
+      "lowestBuni": 0,
+      "highestBuni": 500,
+      "name": "Bunicorn Logo"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_04-450x450.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_04-180x180.png",
+      "lowestBuni": 500,
+      "highestBuni": 1000,
+      "name": "AEGIRBUNI"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_05-450x450.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_05-180x180.png",
+      "lowestBuni": 1000,
+      "highestBuni": 5000,
+      "name": "ROCBUNI"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_06-450x450.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_06-180x180.png",
+      "lowestBuni": 5000,
+      "highestBuni": 10000,
+      "name": "BEEZLEBUNI"
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_07-450x450.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/krypto_monsters/krypto_monster_07-180x180.png",
+      "lowestBuni": 10000,
+      "highestBuni": "POSITIVE_INFINITY",
+      "name": "FORNBUNI"
+    }
+  ],
+  "nft_game_nft": [
+    {
+      "id": 1,
+      "imgUrl": "https://static.nft.bunicorn.exchange/farms/logo-450x600.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/farms/logo-180x240.png",
+      "lowestBuni": 0,
+      "highestBuni": 500,
+      "name": "Bunicorn Logo"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://static.nft.bunicorn.exchange/farms/chest-450x600.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/farms/chest-180x240.png",
+      "lowestBuni": 500,
+      "highestBuni": 1000,
+      "name": "Mystery Chest"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://static.nft.bunicorn.exchange/farms/normal-egg-450x600.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/farms/normal-egg-180x240.png",
+      "lowestBuni": 1000,
+      "highestBuni": 5000,
+      "name": "Normal Egg"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://static.nft.bunicorn.exchange/farms/rare-egg-450x600.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/farms/rare-egg-180x240.png",
+      "lowestBuni": 5000,
+      "highestBuni": 10000,
+      "name": "Rare Egg"
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://static.nft.bunicorn.exchange/farms/epic-egg-450x600.png",
+      "smallImgUrl": "https://static.nft.bunicorn.exchange/farms/epic-egg-180x240.png",
+      "lowestBuni": 10000,
+      "highestBuni": "POSITIVE_INFINITY",
+      "name": "Epic Egg"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Fire": [
+    [
+      "Larvuny"
+    ],
+    [
+      "Larvany"
+    ],
+    [
+      "Larvesbuny"
+    ],
+    [
+      "Larvucorn"
+    ],
+    [
+      "Maslarcorn"
+    ]
+  ],
+  "Earth": [
+    [
+      "Floru"
+    ],
+    [
+      "Floruny"
+    ],
+    [
+      "Florany",
+      "Floregg"
+    ],
+    [
+      "Floracorn",
+      "Floxer"
+    ],
+    [
+      "Floranicorn"
+    ]
+  ],
+  "Water": [
+    [
+      "Seabu"
+    ],
+    [
+      "Seasabu"
+    ],
+    [
+      "Oceabu"
+    ],
+    [
+      "Depseabu"
+    ],
+    [
+      "Abysbu"
+    ]
+  ],
+  "Air": [
+    [
+      "Sylny"
+    ],
+    [
+      "Syluny"
+    ],
+    [
+      "Sylveny"
+    ],
+    [
+      "Xersiny"
+    ],
+    [
+      "Xerny"
+    ]
+  ]
+}
+

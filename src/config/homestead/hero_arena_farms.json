@@ -1,0 +1,128 @@
+[
+  {
+    "pid": 0,
+    "lpAddresses": "0x875117629cd12B166778842DbedD0D18E0D6e677",
+    "poolAddress": "0xb83CdAa5887cE55E4687E6C61F281ab8f267FdCF",
+    "stakeType": "token",
+    "lpSymbol": "HERA",
+    "rewardToken": {
+      "contractAddress": "0x875117629cd12B166778842DbedD0D18E0D6e677",
+      "symbol": "HERA"
+    },
+    "poolTokens": [
+      {
+        "contractAddress": "0x875117629cd12B166778842DbedD0D18E0D6e677",
+        "color": "#1940c0",
+        "decimals": 18,
+        "denormWeight": 50,
+        "symbol": "HERA",
+        "weightPercent": 50
+      }
+    ]
+  },
+  {
+    "pid": 1,
+    "lpAddresses": "0x80a58B6FE346fEA7f1A333e3BD9B87a2AC4D46f0",
+    "poolAddress": "0x5E4D59c839213a6920bab74Cd54fEe25c0C2dDbD",
+    "stakeType": "token",
+    "lpSymbol": "AVA",
+    "rewardToken": {
+      "contractAddress": "0x80a58B6FE346fEA7f1A333e3BD9B87a2AC4D46f0",
+      "symbol": "AVA"
+    },
+    "poolTokens": [
+      {
+        "contractAddress": "0x80a58B6FE346fEA7f1A333e3BD9B87a2AC4D46f0",
+        "color": "yellow",
+        "decimals": 18,
+        "denormWeight": 50,
+        "symbol": "AVA",
+        "weightPercent": 50
+      }
+    ]
+  },
+  {
+    "pid": 2,
+    "lpAddresses": "0x042943E9b8611Df5c539d5bEa8C18653f543c6FD",
+    "poolAddress": "0x42135d5dF983C542705249fB1b0ea7167db15504",
+    "stakeType": "token",
+    "lpSymbol": "RATA",
+    "rewardToken": {
+      "contractAddress": "0x042943E9b8611Df5c539d5bEa8C18653f543c6FD",
+      "symbol": "RATA"
+    },
+    "poolTokens": [
+      {
+        "contractAddress": "0x042943E9b8611Df5c539d5bEa8C18653f543c6FD",
+        "color": "red",
+        "decimals": 18,
+        "denormWeight": 50,
+        "symbol": "RATA",
+        "weightPercent": 50
+      }
+    ]
+  },
+  {
+    "pid": 3,
+    "lpAddresses": "0xC75BE01Bd0b80063CC90809dFa35BdF1B7155140",
+    "poolAddress": "0x4E0f5Ef830E59273f7c08af4c7938f03093c645B",
+    "stakeType": "token",
+    "lpSymbol": "MATA",
+    "rewardToken": {
+      "contractAddress": "0xC75BE01Bd0b80063CC90809dFa35BdF1B7155140",
+      "symbol": "MATA"
+    },
+    "poolTokens": [
+      {
+        "contractAddress": "0xC75BE01Bd0b80063CC90809dFa35BdF1B7155140",
+        "color": "red",
+        "decimals": 18,
+        "denormWeight": 50,
+        "symbol": "MATA",
+        "weightPercent": 50
+      }
+    ]
+  },
+  {
+    "pid": 4,
+    "lpAddresses": "0x0c1E201Ca3B681572d2C9973cBF480b0aC983f58",
+    "poolAddress": "0x42135d5dF983C542705249fB1b0ea7167db15504",
+    "stakeType": "token",
+    "lpSymbol": "LALA",
+    "rewardToken": {
+      "contractAddress": "0x22b634b08B28077932A4521BCda7b74745a965AE",
+      "symbol": "LALA"
+    },
+    "poolTokens": [
+      {
+        "contractAddress": "0x0c1E201Ca3B681572d2C9973cBF480b0aC983f58",
+        "color": "red",
+        "decimals": 18,
+        "denormWeight": 50,
+        "symbol": "LALA",
+        "weightPercent": 50
+      }
+    ]
+  },
+  {
+    "pid": 5,
+    "lpAddresses": "0x6140392176bC996D59317f6F1ADf5fC971C60B30",
+    "poolAddress": "0x86Ba9C25B59abE478FC040D5E8a4a98040Be8E6D",
+    "stakeType": "token",
+    "lpSymbol": "SAPA",
+    "rewardToken": {
+      "contractAddress": "0x6140392176bC996D59317f6F1ADf5fC971C60B30",
+      "symbol": "SAPA"
+    },
+    "poolTokens": [
+      {
+        "contractAddress": "0x6140392176bC996D59317f6F1ADf5fC971C60B30",
+        "color": "red",
+        "decimals": 18,
+        "denormWeight": 50,
+        "symbol": "SAPA",
+        "weightPercent": 50
+      }
+    ]
+  }
+]

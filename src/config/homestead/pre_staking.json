@@ -1,0 +1,74 @@
+[
+  {
+    "pid": 100,
+    "preStakingAddress": "0x08c19bdA7964A5a953765e7CC6E04FEF504C5389",
+    "lpAddress": "0x969c59e4aa215f377184cea9ca80a9d68a843959",
+    "poolType": "tokens"
+  },
+  {
+    "pid": 99,
+    "preStakingAddress": "0xe02877C2914983E16e96418Cd29109e3B027D095",
+    "lpAddress": "0x9c8Fd9a60da602F7bE0c95edA1aa5CF48eb67789",
+    "poolType": "tokens"
+  },
+  {
+    "pid": 0,
+    "preStakingAddress": "0x936ed835E72B7F9B0DD908F46344B89EC4e23058",
+    "lpAddress": "0x42612b419E31F6a74b81Ba627C7d8d5e325D6758",
+    "poolType": "stablecoins"
+  },
+  {
+      "pid": 3,
+      "preStakingAddress": "0x9f2515135453f9485b2aE91ef48e92e0fEd0D2AE",
+      "lpAddress": "0x9131Eef9437Cb2f519273a1e3B92CC8bE33E794E",
+      "poolType": "tokens"
+  },
+  {
+    "pid": 1,
+    "preStakingAddress": "0x772759eEa5111286B3Fc2c808FB3DE6F73c37050",
+    "lpAddress": "0x4a9f3f821590fC22bD682e829656596C29749328",
+    "poolType": "stablecoins"
+  },
+  {
+      "pid": 5,
+      "preStakingAddress": "0x3FD9017D28fDbb6E429bCC6AAeE2a0Fa991159Fc",
+      "lpAddress": "0xC1520E2A5dE4b5B8f1bbf6576caB6fa1B8380fCF",
+      "poolType": "tokens"
+  },
+  {
+      "pid": 2,
+      "preStakingAddress": "0x621Cb28f4719AcB815E35dd2BF804A9Be2307548",
+      "lpAddress": "0xb05697B07E87e57d96FF9802869a410aD6162777",
+      "poolType": "stablecoins"
+    },
+  {
+    "pid": 4,
+    "preStakingAddress": "0x71F39E16e3ef8DAf6e85ec30C56CDf0baFD251b2",
+    "lpAddress": "0xa437baFC1150015774864178E1b479a64A6c0D83",
+    "poolType": "tokens"
+  },
+  {
+    "pid": 6,
+    "preStakingAddress": "0xc0B6171ccd2Eb5Cf0dfCAABC5e1BE3ab671BE445",
+    "lpAddress": "0x688047B695f3746022d2caf129A9DC86A9538Ebf",
+    "poolType": "tokens"
+  },
+  {
+    "pid": 7,
+    "preStakingAddress": "0x9f61780d91F2C125EB3C49fE74df7b40183Fb4df",
+    "lpAddress": "0x9E9B36445e42654157dc15Ae7AFC5F98914Fe1c3",
+    "poolType": "tokens"
+  },
+  {
+    "pid": 8,
+    "preStakingAddress": "0xb6c9e17B77257ae7F1cff43D2A02c6bE760A7e9e",
+    "lpAddress": "0xb9aB3e5a73986D41278227bCeA4d8C0CaB7488C7",
+    "poolType": "tokens"
+  },
+  {
+    "pid": 9,
+    "preStakingAddress": "0xD0a00bc14C150e6F8F0B0dFfee2e1944C73B8A05",
+    "lpAddress": "0x9b7cfb301b38032bA5c25B7f77a9F0a22406a2Bb",
+    "poolType": "tokens"
+  }
+]

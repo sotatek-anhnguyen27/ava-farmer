@@ -1,0 +1,267 @@
+{
+  "0x0b0448ee12653b2ddd12b2c4b858e98de30b4eb9": {
+    "chainId": 1,
+    "name": "AMPL Smart Rebasing (deprecated)",
+    "about": "(Deprecated) This pool uses a customized version of the smart pool, designed to hold AMPL Elastic Supply tokens and accommodate the daily rebase.",
+    "is_visible": false,
+    "is_compatible": false
+  },
+  "0x7860e28ebfb8ae052bfe279c07ac5d94c9cd2937": {
+    "chainId": 1,
+    "name": "AMPL Smart Rebasing",
+    "about": "This Smart Pool is customized to hold the AMPL elastic supply token. The pool weights update automatically with AMPL's rebases to reduce impermanent loss.",
+    "learn_more": "https://medium.com/ampleforth/ampl-usdc-smart-pool-on-balancer-be8eed9a264a",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x9891832633a83634765952b051bc7fef36714a46": {
+    "chainId": 1,
+    "name": "PieDAO BTC++",
+    "symbol": "BTC++",
+    "about": "BTC++ it’s a weighed allocation between the different representations of Bitcoin on the Ethereum.",
+    "learn_more": "https://pools.piedao.org/#/pie/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+    "is_visible": false,
+    "is_compatible": false,
+    "logo": true,
+    "bptAddress": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd"
+  },
+  "0x1ee383389c621c37ee5aa476f88413a815083c5d": {
+    "chainId": 1,
+    "name": "PieDAO USD++ Pool",
+    "symbol": "USD++",
+    "about": "USD++ it’s a stable coin pool where weights are determined by volatility to the peg, trust minimization, and market risk.",
+    "learn_more": "https://pools.piedao.org/#/pie/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+    "is_visible": false,
+    "is_compatible": false,
+    "logo": true,
+    "bptAddress": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e"
+  },
+  "0x94743cfaa3fdc62e9693572314b5ee377eba5d11": {
+    "chainId": 1,
+    "name": "PieDAO DEFI Small Cap",
+    "symbol": "DEFI+S",
+    "learn_more": "https://pools.piedao.org/#/pie/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
+    "is_visible": false,
+    "is_compatible": false,
+    "logo": true,
+    "bptAddress": "0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c"
+  },
+  "0x0e5c1813587088378787e7dd6c9cb4cb01a0ea18": {
+    "chainId": 1,
+    "name": "PieDAO DEFI Large Cap",
+    "symbol": "DEFI+L",
+    "about": "DEFI+L is a diversified carefully weighted allocation of the leading DeFi tokens in the market.",
+    "learn_more": "https://pools.piedao.org/#/pie/0x78f225869c08d478c34e5f645d07a87d3fe8eb78",
+    "is_visible": false,
+    "is_compatible": false,
+    "logo": true,
+    "bptAddress": "0x78f225869c08d478c34e5f645d07a87d3fe8eb78"
+  },
+  "0x5c0f17b1cfb6225628204e2b8e44239a9cc0ef9f": {
+    "chainId": 1,
+    "name": "Bankless BAP0 sale",
+    "about": "BAP0's are redeemable for tee shirts made by the Bankless team. To, claim burn the token and mail the transaction hash to apparel@banklesshq.com with your delivery address.",
+    "learn_more": "https://bankless.substack.com/p/the-ultimate-guide-to-balancer-smart",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xd485e6a0389a42d75f4b00ece91fc02340b73938": {
+    "chainId": 1,
+    "name": "PieDAO DEFI++",
+    "symbol": "DEFI++",
+    "about": "DEFI++ is a weighted combination of DEFI+L and DEFI+S.",
+    "learn_more": "https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033",
+    "is_visible": false,
+    "is_compatible": false,
+    "logo": true,
+    "bptAddress": "0x8d1ce361eb68e9e05573443c407d4a3bed23b033"
+  },
+  "0xdd0b69d938c6e98bf8f16f04c4913a0c07e0bb6e": {
+    "chainId": 1,
+    "name": "PrimeDAO Smart Pool",
+    "about": "PrimeDAO's first DAO-governed Smart Pool. Liquidity providers should keep an eye on DAO governance results to monitor changes to the pool.",
+    "learn_more": "https://primedao.eth",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true,
+    "bptAddress": "0x51a2310b37ead1d8f8fe01b89b4cd68fa58992d0"
+  },
+  "0xa751a143f8fe0a108800bfb915585e4255c2fe80": {
+    "chainId": 1,
+    "about": "This shared pool is designed to hold AMPL Elastic Supply tokens and accommodate the daily rebase.",
+    "learn_more": "https://www.ampleforth.org",
+    "is_compatible": false
+  },
+  "0x10996ec4f3e7a1b314ebd966fa8b1ad0fe0f8307": {
+    "chainId": 1,
+    "name": "CrescoFin WETH/DAI Pool",
+    "about": "Welcome to our token launch, you are about to be one of the first to own wCRES and be part of an exciting new community.  We are the world’s first DeFi alternative to a bank account. With us, you get much higher returns than in a bank on your fiat and crypto. Deposits and returns are fully insured, and your money legally stays yours.  Make your money work harder for you and keep it safe.\n\nRegulated in Switzerland. Available globally.",
+    "learn_more": "https://medium.com/crescofin/first-regulated-firm-to-offer-equity-tokens-on-balancer-2f161a276c3d",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xea05a15dbce2eb543ffda16950e95b2bd2e40d0e": {
+    "chainId": 1,
+    "name": "Metagame SEED Pool",
+    "about": "This is where you plant & water your Seeds",
+    "learn_more": "https://metagame.wtf",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x38131a37f74a52141e14d7aef40a876066ffe25f": {
+    "chainId": 1,
+    "name": "Tapmydata LB Pool",
+    "about": "The Tapmydata solution is a framework of tools, ledger and decentralised protocol for people to reclaim their digital identity, crystallise unique, verified elements of consent in an NFT and provide a new, transparent channel for legitimate counterparties to blend data and exchange value.",
+    "learn_more": "https://tapmydata.com/tap-token/",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x3694b26c6b67677b663a905cea4d325019eace9a": {
+    "chainId": 1,
+    "name": "CCA Defi Direct Fund",
+    "about": "My DeFi Pie Direct gives you direct exposure to “blue chip” crypto assets, while maintaining a cash reserve that generates passive income for future-proofing climate solutions.",
+    "learn_more": "https://www.confluenceanalytics.com/my-defi-pie-eco-direct",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xb2ec68ad657ecfd9aa1f61ed8de02c3f5186d925": {
+    "chainId": 1,
+    "name": "CCA Defi Index Fund",
+    "about": "My DeFi Pie Index provides the opportunity for growth through full participation in the decentralized finance revolution - all while maintaining a cash reserve that generates passive income for future-proofing climate solutions.",
+    "learn_more": "https://www.confluenceanalytics.com/my-defi-pie-eco-index",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x25af1f2c3772d6f19aa6615571203757365d29c6": {
+    "chainId": 1,
+    "name": "PieDAO BCP",
+    "symbol": "BCP",
+    "about": "BCP is an equal balance between the established market leader (BTC), the backbone asset of smart-contract infrastructure (ETH), and a basket of the most innovative permissionless tools revolutionizing finance (DEFI++).",
+    "learn_more": "https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14",
+    "is_visible": false,
+    "is_compatible": false,
+    "logo": true,
+    "bptAddress": "0xe4f726adc8e89c6a6017f01eada77865db22da14"
+  },
+  "0xc99317ceef9ed2ab9ff0ec99f64f3dd61b09a6b2": {
+    "chainId": 1,
+    "name": "Furucombo LB Pool",
+    "about": "4% of the total COMBO supply is added into the liquidity bootstrapping pool (LBP) for the initial launch during Jan 12 to 14, 2021. While the COMBO tokens distributed to the team and investors will still be under the locked up period, only COMBO tokens from the initial launch will be circulated in the market. They are all in the community’s hands to decide its fair price with the LBP.",
+    "learn_more": "https://medium.com/furucombo/announcing-combo-token-launch-53ea05a68e74",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x753f64a1447228bb800336569d98e11e94b0d0d2": {
+    "chainId": 1,
+    "about": "This pool will slowly switch from primarily vBZRX to primarily WETH over a ~40 month period. The pool also holds 4% BZRX (may need to be increased slightly later) so that BZRX that is left in the pool due to vesting can be gulp()ed and incorporated into the pool. When the 42 month vBZRX vesting period is nearly complete I will pause swapping (if I am still alive).",
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xd64bb9076f513d05ac31d1f143edcea6884d595f": {
+    "chainId": 1,
+    "name": "Razor Network LBP",
+    "about": "This is the Liquidity Bootstrapping Pool for Razor Network's RAZOR utility tokens. With this mechanism, initial distribution of the RAZOR tokens will be performed. The weights of the pool will change over time to perform price discovery and avoid front-running attacks. More details can be found on razor.network and our social media channels.",
+    "learn_more": "https://razor.network",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xc697051d1c6296c24ae3bcef39aca743861d9a81": {
+    "chainId": 1,
+    "name": "Aave Balancer Pool",
+    "about": "Aave is a liquidity protocol where users can earn interest on deposits and borrow assets. If you add liquidity to this pool, you can stake your pool tokens in the Safety Module, which helps secure the Aave Protocol. In return for taking this risk (up to 30% of your stake could be slashed to cover a shortfall), you receive a share of the 550 AAVE/day Safety Incentive.",
+    "learn_more": "https://medium.com/aave/aavenomics-quarterly-upgrade-1b57ab8ae20b",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xcaf467dfe064a1f54e4ece8515ddf326b9be801e": {
+    "chainId": 1,
+    "name": "Idle Smart Treasury",
+    "about": "The Idle Smart Treasury is based on the buyback-and-make model by Placeholder VC. The Idle FeeCollector converts protocol fees into WETH and deposits a portion into the smart treasury, acting as a buyback machine while also providing more on-chain liquidity for the IDLE token.",
+    "learn_more": "https://gov.idle.finance/t/iip-2-add-a-smart-treasury-to-idle/211",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xb249e00c0d861aaad716f46a47a340c22cd941fd": {
+    "chainId": 1,
+    "name": "HOPR Network LBP",
+    "about": "This is the Liquidity Bootstrapping Pool for the HOPR Network's HOPR Token. As voted for by the Genesis DAO, 30m HOPR tokens (plus any leftover from the presale in Phase 1) will be placed in this Liquidity Bootstrapping Pool (LBP) for 72hrs, balanced against the initial capital of almost $2.5m DAI (converted from xDAI) raised in the presale.",
+    "learn_more": "https://medium.com/hoprnet/hopr-launch-phase-2-balancer-liquidity-bootstrapping-pool-7128c7ce5896",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x1e6c8c4d3a9a6f633f28c70c7c80a412df42956a": {
+    "chainId": 1,
+    "name": "Mask Network LBP",
+    "about": "The second part of the Mask public offering, the $MASK LBP will launch at 3:00pm UTC+0, Feb 24th and end at 3:00am UTC+0, Feb 26th, a total of 36 hours. We will use the Liquidity Bootstrapping Pool (LBP) by Balancer to auction 4% of the total supply in order to derive and capture the true value of $MASK.",
+    "learn_more": "https://news.mask.io/2021/02/24/mask-lbp-tutorial",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x824603f89e27af953cab03a82017e4a74dd4df73": {
+    "chainId": 1,
+    "name": "Radicle LBP",
+    "about": "The Radicle LBP Event is a two-day liquidity bootstrapping event for the Radicle community. This is the first opportunity for the general public to buy RAD to participate in the governance of the network. All proceeds will go to the Radicle Treasury, a smart contract entirely controlled by Radicle token holders. ",
+    "learn_more": "https://lbp.radicle.network/",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x58ad69d1306a2410622d0e3f707c8f1dd0185c49": {
+    "chainId": 1,
+    "name": "Kylin Network LBP",
+    "about": "13M KYL tokens from the Public Sale will be distributed (unpaused) to Balancer’s Liquidity Bootstrapping Pool (LBP) on March 3rd at around 10:00 am UTC. The LBP will run for 48 hours, starting from 10:00 am UTC March 3rd, and ending at 10:00 am UTC March 5th. The weight of Balancer Pool will be adjusted according to the market buying power. This is dynamic!",
+    "learn_more": "https://kylinnetwork.medium.com/kylin-token-launch-phase-2-liquidity-bootstrapping-pool-lbp-on-balancer-725fe67f73a8",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x3c035c3f8e271e12df1bed648024e60249f507c3": {
+    "chainId": 1,
+    "name": "MetaFactory Pool",
+    "about": "$ROBOT is the MetaFactory Governance Token by which community members decide on token mechanics, reward schedules, partnerships, platform features, treasury use and more. It is also the vehicle by which value is captured, distributed, earned and shared. Creators receive $ROBOT based on the success of their product(s), buyers are rewarded with $ROBOT for their patronage, and the community earns $ROBOT by helping to curate the marketplace.  Revenue from product sales are used to buy back and provide liquidity for $ROBOT, which support ongoing community rewards. Fund management is entirely under the control of the community members via the MetaFactory DAO.",
+    "learn_more": "https://forefront.news/creators/robot",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x963b3d2137fd7ef23273918cb07462c64337c819": {
+    "chainId": 1,
+    "name": "Siren LBP",
+    "about": "5MM SI Tokens will be distributed through a Balancer Liquidity Bootstrapping Pool (LBP). The Balancer LBP will be live for 3 days only and is designed to prevent front-running and speculation. It will start at a high price then go down quickly as the weights of the pool change. This mechanism prevents people from front-running other participants and speculating on SI tokens rather than using them for governance.",
+    "learn_more": "https://app.sirenmarkets.com/lbp",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xebdb2d0f89b0148a6b1b0520388f3ad7daff8acc": {
+    "chainId": 1,
+    "name": "ETHALend LBP",
+    "about": "After being oversubscribed by more than 25x on Dodo, we are extremely pleased to continue our IDO on Balancer via the Liquidity Bootstrapping Pool. From 13:00 CET on March 6 to 13:00 CET on March 7, the pool's weights will adjust from 90/10 ETHA/USDC to 10/90 ETHA/USDC, generating downward pressure on the price of ETHA similar to a Dutch auction.",
+    "learn_more": "https://medium.com/etha/etha-lend-5th-8th-march-double-ido-triple-ieo-sale-details-c3481cece8ff",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x21c4509100443f756b6fff33382bc5e42849d49b": {
+    "chainId": 1,
+    "name": "Kine Protocol LBP",
+    "about": "Kine Protocol will be distributing 5,000,000 (5 million) KINE via a Balancer Liquidity Bootstrapping Pool at about 2021–03–11 14:00 UTC and ending at about 2021–03–13 02:00 UTC. The LBP will last approximately 36 hours.",
+    "learn_more": "https://medium.com/@KineProtocol/guide-to-kines-first-token-offering-219a102d72b6",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  }
+}

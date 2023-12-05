@@ -1,0 +1,70 @@
+[
+  {
+    "pid": 0,
+    "lpAddresses": "0x0a927ab3b0f48826210ad4a43a953277aa7da8f7",
+    "poolAddress": "0x0a927ab3b0f48826210ad4a43a953277aa7da8f7",
+    "stakeType": "token",
+    "lpSymbol": "TOP",
+    "poolTokens": [
+      {
+        "contractAddress": "0x0a927ab3b0f48826210ad4a43a953277aa7da8f7",
+        "color": "#90D5D2",
+        "decimals": 18,
+        "denormWeight": 10,
+        "symbol": "TOP",
+        "weightPercent": 10
+      }
+    ]
+  },
+  {
+    "pid": 1,
+    "lpAddresses": "0x45390249bb2b52486695b539f6c1beb106d955cb",
+    "poolAddress": "0x45390249bb2b52486695b539f6c1beb106d955cb",
+    "stakeType": "LP",
+    "lpSymbol": "-WBNB-TOP",
+    "poolLink": "https://pancakeswap.finance/info/pool/0x45390249bb2b52486695b539f6c1beb106d955cb",
+    "poolTokens": [
+      {
+        "contractAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "color": "#B46EBB",
+        "decimals": 18,
+        "denormWeight": 10,
+        "symbol": "WBNB",
+        "weightPercent": 10
+      },
+      {
+        "contractAddress": "0x45390249bb2b52486695b539f6c1beb106d955cb",
+        "color": "#6BD5AC",
+        "decimals": 18,
+        "denormWeight": 10,
+        "symbol": "TOP",
+        "weightPercent": 10
+      }
+    ]
+  },
+  {
+    "pid": 2,
+    "lpAddresses": "0x1de2014581b9cf16bd41f253b8e33d355bbedf37",
+    "poolAddress": "0x1de2014581b9cf16bd41f253b8e33d355bbedf37",
+    "stakeType": "BPT",
+    "lpSymbol": "-TOP-BUNI",
+    "poolTokens": [
+      {
+        "contractAddress": "0x0a927ab3b0f48826210ad4a43a953277aa7da8f7",
+        "color": "#968648",
+        "decimals": 18,
+        "denormWeight": 10,
+        "symbol": "TOP",
+        "weightPercent": 10
+      },
+      {
+        "contractAddress": "0x0E7BeEc376099429b85639Eb3abE7cF22694ed49",
+        "color": "#FB9E96",
+        "decimals": 18,
+        "denormWeight": 10,
+        "symbol": "BUNI",
+        "weightPercent": 10
+      }
+    ]
+  }
+]

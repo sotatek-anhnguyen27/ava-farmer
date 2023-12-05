@@ -1,0 +1,35 @@
+{
+  "static": {
+    "x1": "https://static.nft.bunicorn.exchange/static-game/chest-x-1-gacha.png",
+    "x10": "https://static.nft.bunicorn.exchange/static-game/chest-x-10-gacha.png",
+    "x50": "https://static.nft.bunicorn.exchange/static-game/chest-x-100-gacha.png"
+  },
+  "shaking": {
+    "x1": "https://static.nft.bunicorn.exchange/static-game/x1_lv3_1200x1200_20_shake_cropped_1.gif",
+    "x10": "https://static.nft.bunicorn.exchange/static-game/x10_lv3_1200x1200_20_shake_cropped_1.gif",
+    "x50": "https://static.nft.bunicorn.exchange/static-game/x100_lv3_1200x1200_20_shake_cropped_1.gif"
+  },
+  "opening": {
+    "x1": {
+      "lv1": "https://static.nft.bunicorn.exchange/static-game/x1_lv1_2.gif",
+      "lv2": "https://static.nft.bunicorn.exchange/static-game/x1_lv1_2.gif",
+      "lv3": "https://static.nft.bunicorn.exchange/static-game/x1_lv3_1200x1200_20_cropped.gif",
+      "lv4": "https://static.nft.bunicorn.exchange/static-game/x1_lv4.gif",
+      "lv5": "https://static.nft.bunicorn.exchange/static-game/x1_lv5.gif"
+    },
+    "x10": {
+      "lv1": "https://static.nft.bunicorn.exchange/static-game/x10_lv1_2.gif",
+      "lv2": "https://static.nft.bunicorn.exchange/static-game/x10_lv1_2.gif",
+      "lv3": "https://static.nft.bunicorn.exchange/static-game/x10_lv3_1200x1200_20_cropped.gif",
+      "lv4": "https://static.nft.bunicorn.exchange/static-game/x10_lv4.gif",
+      "lv5": "https://static.nft.bunicorn.exchange/static-game/x10_lv5.gif"
+    },
+    "x50": {
+      "lv1": "https://static.nft.bunicorn.exchange/static-game/x50_lv1_2.gif",
+      "lv2": "https://static.nft.bunicorn.exchange/static-game/x50_lv1_2.gif",
+      "lv3": "https://static.nft.bunicorn.exchange/static-game/x100_lv3_1200x1200_20_cropped.gif",
+      "lv4": "https://static.nft.bunicorn.exchange/static-game/x50_lv4.gif",
+      "lv5": "https://static.nft.bunicorn.exchange/static-game/x50_lv5.gif"
+    }
+  }
+}

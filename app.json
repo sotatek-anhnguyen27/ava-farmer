@@ -1,0 +1,5 @@
+{
+  "name": "buni.kovan-interface",
+  "script": "npm run start",
+  "cron_restart": "0 */12 * * *"
+}

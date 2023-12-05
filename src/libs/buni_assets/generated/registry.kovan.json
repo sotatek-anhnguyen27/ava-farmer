@@ -1,0 +1,173 @@
+{
+  "tokens": {
+    "0xd0A1E359811322d97991E03f863a0C30C2cF029C": {
+      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+      "id": "weth",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "precision": 4,
+      "color": "#2AC2E5",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    "0x9792F3977Ac74833EA55Da9B2Aa63277eaB05A5C": {
+      "address": "0x9792F3977Ac74833EA55Da9B2Aa63277eaB05A5C",
+      "id": "tether",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "precision": 3,
+      "color": "#2978b5",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    "0xE680fA3CF20cAaB259Ab3E2d55a29C942ad72d01": {
+      "address": "0xE680fA3CF20cAaB259Ab3E2d55a29C942ad72d01",
+      "id": "dai",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#f8a488",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    "0x0B22E57e4e1E236f1E4C4d68c15E064E1Cc2e265": {
+      "address": "0x0B22E57e4e1E236f1E4C4d68c15E064E1Cc2e265",
+      "id": "usd-coin",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "precision": 3,
+      "color": "#845460",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    "0x0675A944CbEa834cddA62F24a08cE42d0fbb83A3": {
+      "address": "0x0675A944CbEa834cddA62F24a08cE42d0fbb83A3",
+      "id": "busd",
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#7eca9c",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    "0x834432F7F92541F42774552F9f55683148d69808": {
+      "address": "0x834432F7F92541F42774552F9f55683148d69808",
+      "id": "maker",
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "precision": 4,
+      "color": "#9BE52A",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    },
+    "0xA2d975933F65351834592E19e783e52e13cd2546": {
+      "address": "0xA2d975933F65351834592E19e783e52e13cd2546",
+      "id": "augur",
+      "name": "Augur",
+      "symbol": "REP",
+      "decimals": 18,
+      "precision": 4,
+      "color": "#F0DED4",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1985365e9f78359a9B6AD760e32412f4a445E862/logo.png"
+    },
+    "0x18c6fFF449E1af4EE68526164C173460e07f1BE5": {
+      "address": "0x18c6fFF449E1af4EE68526164C173460e07f1BE5",
+      "id": "wrapped-bitcoin",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "precision": 4,
+      "color": "#F291C1",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    "0xA23dD33ab3d508901E810d065b5C31d4d3e42Dbf": {
+      "address": "0xA23dD33ab3d508901E810d065b5C31d4d3e42Dbf",
+      "id": "basic-attention-token",
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#E5332A",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
+    },
+    "0x855c07E4d29e73057705194A391a83b9c32D6C67": {
+      "address": "0x855c07E4d29e73057705194A391a83b9c32D6C67",
+      "id": "havven",
+      "name": "Synthetix",
+      "symbol": "SNX",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#E5812A",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+    },
+    "0x9B3c988D26bC51fE48714dda8Eaa816EE2Aa78a0": {
+      "address": "0x9B3c988D26bC51fE48714dda8Eaa816EE2Aa78a0",
+      "id": "aragon",
+      "name": "Aragon Network Token",
+      "symbol": "ANT",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#E5DE2A",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+    },
+    "0x24E717E24E175ae41313E5db341732c3785F6ca1": {
+      "address": "0x24E717E24E175ae41313E5db341732c3785F6ca1",
+      "id": "0x",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#16C094",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    },
+    "0xc3737a066fAe30614db8E01c264331fCa852b4Ae": {
+      "address": "0xc3737a066fAe30614db8E01c264331fCa852b4Ae",
+      "id": "buni",
+      "name": "BUNI Token",
+      "symbol": "BUNI",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#17C094",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "/coins/0xc3737a066fAe30614db8E01c264331fCa852b4Ae.png"
+    },
+    "0x9C940a49215D6615089C606191f27cc6838E2307": {
+      "address": "0x9C940a49215D6615089C606191f27cc6838E2307",
+      "id": "tokenplay",
+      "name": "Tokenplay",
+      "symbol": "TOP",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#17C094",
+      "chainId": 42,
+      "hasIcon": false,
+      "logoURI": "/coins/0x0A927Ab3B0F48826210Ad4A43A953277AA7da8f7.png"
+    }
+  },
+  "untrusted": []
+}

@@ -1,0 +1,34 @@
+{
+  "Fire": [
+    "https://static.nft.bunicorn.exchange/trainers/Black_robot_fire_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_02_fire_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_04_fire_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_01_fire_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_03_fire_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Pink_robot_fire_v2_450x600.png"
+  ],
+  "Earth": [
+    "https://static.nft.bunicorn.exchange/trainers/Black_robot_earth_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_02_earth_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_04_earth_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_01_earth_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_03_earth_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Pink_robot_earth_v2_450x600.png"
+  ],
+  "Water": [
+    "https://static.nft.bunicorn.exchange/trainers/Black_robot_water_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_02_water_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_04_water_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_01_water_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_03_water_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Pink_robot_water_v2_450x600.png"
+  ],
+  "Air": [
+    "https://static.nft.bunicorn.exchange/trainers/Black_robot_air_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_02_air_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Female_trainer_04_air_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_01_air_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Male_trainer_03_air_v2_450x600.png",
+    "https://static.nft.bunicorn.exchange/trainers/Pink_robot_air_v2_450x600.png"
+  ]
+}
